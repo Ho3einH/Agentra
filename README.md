@@ -78,25 +78,25 @@ The screenshots below illustrate the Open WebUI interface.
 
 The main screen is the entry point for interacting with a selected model. Write a prompt in the message composer, send it, and review the generated response in the conversation.
 
-![Open WebUI chat interface](assets/screenshots/chat-interface.png)
+![Open WebUI chat interface](https://github.com/user-attachments/assets/86743f04-fc09-48ad-a3ad-cc3c70b8da41)
 
 ### Choosing a Model
 
 Use the model selector to switch between models available to Open WebUI. Different models may vary in response quality, latency, memory requirements, and suitability for a task. The models shown in this screenshot are examples of models available in that environment—not a guarantee that every installation has the same list.
 
-![Selecting a model in Open WebUI](assets/screenshots/Choose-models.png)
+![Selecting a model in Open WebUI](https://github.com/user-attachments/assets/1b64c0cb-841f-439a-a30f-4bdd8b5d45bd)
 
 ### Conversation View
 
 A conversation displays user prompts and model responses in sequence. It is useful for testing instructions, comparing outputs, and iterating on a prompt before using it in an application.
 
-![Example AI conversation](assets/screenshots/chat.png)
+![Example AI conversation](https://github.com/user-attachments/assets/1b64c0cb-841f-439a-a30f-4bdd8b5d45bd)
 
 ### Managing Chats
 
 The chat sidebar provides access to previous conversations. Use it to return to an earlier discussion or keep separate chats for different experiments and tasks.
 
-![Open WebUI chat management](assets/screenshots/manage-chats.png)
+![Open WebUI chat management](https://github.com/user-attachments/assets/c56e96f3-00d5-4f95-bde1-dea17f23d491)
 
 ## Architecture
 
